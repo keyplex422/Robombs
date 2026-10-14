@@ -211,4 +211,4 @@ Robombs is available as a full free version, offering all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-14 07:24:47 UTC
+**Last updated:** 2026-10-14 13:33:36 UTC
